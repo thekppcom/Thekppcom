@@ -9,8 +9,6 @@ Soy un desarrollador de software enfocado en crear soluciones limpias, eficiente
 ![](https://streak-stats.demolab.com/?user=thekppcom&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=thekppcom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thekppcom&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://komarev.com/ghpvc/?username=thekppcom&icon=0&color=3)](https://visitcount.itsvg.in)
